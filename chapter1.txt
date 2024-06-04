@@ -1,0 +1,2 @@
+This our first chapter. 
+To this we will create a local Git repo and start tracking changes.
