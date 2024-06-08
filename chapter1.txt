@@ -1,2 +1,2 @@
-This our first chapter. 
-To this we will create a local Git repo and start tracking changes.
+This our first chapter in our new branch. 
+We are making changes to the first chapter in our new branch.
