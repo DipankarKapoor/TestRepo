@@ -1,1 +1,1 @@
-This is chapter 3 and this is also done.
+This is chapter 3 and this is the 3rd change in our new branch.
